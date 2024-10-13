@@ -1,0 +1,2 @@
+nome,divida,valor,vencimento,cartao_ativo,cartao_vencimento,consumo_internet,atrasos_recentes,historico_pagamentos,cartoes_vencidos,plano_internet,uso_dados,preferencia_vencimento
+Maria,Serviços da Claro,120.00,20/09/2024,5678,12/2023,10GB,3,"{'20/06/2024': 'Pago com atraso de 15 dias', '20/07/2024': 'Pago com atraso de 15 dias', '20/08/2024': 'Pago com atraso de 15 dias'}","[]","Claro 10GB","9GB","05"
